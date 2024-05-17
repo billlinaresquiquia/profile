@@ -1,33 +1,51 @@
-<h1 align="center">Hola 👋, soy hodaka</h1>
-<h3 align="center">desarrollador ia de perú</h3>
+## Hello GitHub Fans 👋
+[![博客搭建交流群](https://img.shields.io/badge/博客搭建QQ群-422625065-red.svg "博客搭建交流群")](https://jq.qq.com/?_wv=1027&k=58Ypj9z "博客搭建交流群")
+[![webkettle交流群](https://img.shields.io/badge/webkettle交流群-487063343-red.svg "webkettle交流群")](https://jq.qq.com/?_wv=1027&k=55kiWBY "webkettle交流群")
+[![Mail Badge](https://img.shields.io/badge/-joeysiwei@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joeysiwei@gmail.com)](mailto:joeysiwei@gmail.com)
+---
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
-<p align="left"> <img src="https: //komarev.com/ghpvc/?username=hodaka&label=Profile%20views&color=0e75b6&style=flat" alt="hodaka" /> </p>
+### I'm Siwei Zhou
 
-<p align="left"> <a href="https://github .com/ryo-ma/github-profile-tropic"><img src="https://github-profile-tropico.vercel.app/?username=hodaka" alt="hodaka" /></a> < /p>
+- A Computer Engineering Undergraduate Student. & Open Source enthusiast.
+- 🌱 Currently working in Hangzhou, China.
+- 💬 Ask me about Java, TypeScript and my projects on [2434387555@qq.com](mailto:2434387555@qq.com)
+- ⭐ You may like [webkettle](https://github.com/JoeyBling/webkettle) 、[hexo-theme-yilia-plus](https://github.com/JoeyBling/hexo-theme-yilia-plus) 、or [bootplus](https://github.com/JoeyBling/bootplus)
+- ⚡ Fun fact: Data Analysis📊
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/ ?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+### 🛠 技术栈 | Tech Stack
 
-### Publicaciones de blogs
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG- LISTA DE POST: FIN -->
+- 💻 &#160; ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)
+![聚合支付](https://img.shields.io/badge/-聚合支付-333333?style=flat&logo=payoneer&logoColor=FF4800)
+- 🌐 &#160; ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Vue.js](https://img.shields.io/badge/-VueJS-333333?style=flat&logo=Vue.js)
+- 🛢 &#160; ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
+- 🔧 &#160;![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-<a href="https://dev.to/hodaka" target=" en blanco"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt=" hodaka" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emiliano linares quiquia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emiliano linares quiquia" height= "30" ancho="40" /></a>
-<a href="https://fb.com/emiliano linares quiquia" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="emiliano linares quiquia" height="30" width="40" /> </a>
-<a href="https://www.youtube.com/c/emikaze" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain /github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="emikaze" height="30" width="40" /></a>
-<a href="https ://www.hackerrank.com/hodaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src /images/icons/Social/hackerrank.svg" alt="hodaka" height="30" width="40" /></a>
-</p>
+### 开源项目
+- [基于SpringBoot + Shiro + MyBatisPlus的权限管理框架](https://github.com/JoeyBling/bootplus)
+- [一个简洁优雅的hexo主题](https://github.com/JoeyBling/hexo-theme-yilia-plus)
+- [hexo-theme-yilia-plus配置Demo](https://github.com/JoeyBling/yilia-plus-demo)
+- [自动为hexo中的图片映射绝对路径](https://github.com/JoeyBling/hexo-filter-image)
+- [✏️✏️Java软件工程师简历](https://github.com/JoeyBling/cv)
+- [一款简洁优雅的VuePress主题](https://github.com/JoeyBling/vuepress-theme-yilia-plus)
+- [VuePress集成Live2D看板娘](https://github.com/JoeyBling/vuepress-plugin-helper-live2d)
+- [VuePress集成Gitalk](https://github.com/JoeyBling/vuepress-plugin-mygitalk)
+- [不蒜子访问量统计功能](https://github.com/JoeyBling/busuanzi.pure.js)
+- [在`npm install`后提示用户消息或捐赠](https://github.com/JoeyBling/openteam-postinstall)
 
-<h3 align="left">Idiomas y herramientas:</ h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos /angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel ="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> < a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/ amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" destino ="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo -title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel ="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40 "/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com /devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www .docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> < img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href=" https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg " alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src= "https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https:/ /www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original- wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://karma-runner.github.io/latest/index.html" target= "_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/karma.svg" alt="karma" width="40" height= "40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com /devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql .com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt= "mysql" ancho="40" alto="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https: //raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href ="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="cartero" ancho="40" altura="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> < img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a > <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon. svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </ a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon. svg" alt="unidad" ancho="40" altura="40"/> </a> </p>
+### 关于我
+- [技术笔记](https://zhousiwei.gitee.io/ibooks/)
+- [CSDN](https://zhousiwei.blog.csdn.net/)
+- [微博](http://weibo.com/jayinfo)
 
-<h3 align="left">Soporte:</h3>
-<p> <a href="https://www.buymeacoffee.com/hodaka"> <img align="left" src="https://cdn .buymeacoffee.com/buttons/v2/default-amarillo.png" height="50" width="210" alt="hodaka" /></a> <a href="https://ko-fi.com /hodaka"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="hodaka " /></a> </p><br><br>
+> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hodaka&show_icons=true&locale=en&layout=compact" alt="hodaka" /> </p>
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=hodaka&show_icons=true&locale=en" alt="hodaka" /> </p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hodaka&" alt="hodaka" /></p>
+⭐️ From [JoeyBling](https://github.com/JoeyBling)
