@@ -5,7 +5,7 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Nishant</h1></summary>
+    <summary><h1 style="display: inline-block">Hola 👋, soy Hodaka17</h1></summary>
   </ul>
 </div>
 
@@ -20,25 +20,24 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
+    <summary><h2 style="display: inline-block">La confusión es parte de la programación</h2></summary>
   </ul>
 </div>
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **AWS, React, React Native, Nodejs, MongoDB**
+🔭 Actualmente estoy trabajando en Angular, TypeScript, ASP.NET Core en C#, MySQL, AWS, Heroku, Azure
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+🌱 Actualmente estoy aprendiendo IA
 
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
+☁️ Tengo un gran interés en la computación en la nube, así que estoy aprendiendo AWS
 
-- 📝 I regularly write articles on [Hashnode](https://1010nishant.hashnode.dev/)
+💬 Pregúntame sobre Angular, TypeScript, ASP.NET Core, MySQL, AWS, Heroku, Azure
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+📫 No dudes en contactarme en emilianolinarequiquia@gmail.com
 
-- 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
+🏠 ¡No dudes en saludarme con un 👋 en Discord – emy2832 mi usuario!
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
 <!--Intro end-->
 
 
@@ -80,13 +79,13 @@
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Tecnologías que conozco👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,cpp,css,discord,docker,postgres,prisma,pug,dynamodb,express,figma,firebase,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,nodejs,postman,py,react,redux,tailwind,ts,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,github,html,js,linux,mysql,nodejs,postman,py,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
@@ -95,7 +94,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Conectate conmigo🤝</h2></summary>
   </ul>
 </div>
 
@@ -110,18 +109,3 @@
 </p>
 
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
-
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
